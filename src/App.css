@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  display: flex;
+  overflow: hidden;
+}
+.Dashboard {
+  background-color: black;
+  margin: auto;
+  height: 60px;
+  padding: 10px;
+  width: 100%;
+}
+.Dashboard-letter {
+  color: #64CD8A;
+  font-size: 25px;
+  font-weight: bold;
+}
+.icon-list {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.title {
+  padding: 35px;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.icon-card{
+  color:#64CD8A;
+}
+.btn {
+  color: #64CD8A !important;
+  background-color: black !important;
+  outline:0 !important;
+  border: black !important;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}

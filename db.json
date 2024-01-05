@@ -1,0 +1,29 @@
+{
+  "listaSemanal": [
+    {
+      "id": 1,
+      "description": "Alimentação",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "description": "Transporte",
+      "price": 86
+    }
+  ],
+
+  "listaMensal": [
+      {
+        "id": 1,
+        "description": "Contas fixas",
+        "price": 7000
+      }
+    ],
+    "listaAnual": [
+      {
+        "id": 1,
+        "description": "Contas fixas e despesas gerais",
+        "price": 90000
+      }
+    ]
+}
